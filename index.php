@@ -13,3 +13,9 @@
 <h2> Javier sensei</h2>
 </body>
 </html>
+
+<?php
+$nombre = $_POST["nombre"];
+echo $nombre;
+
+?>

@@ -1,0 +1,42 @@
+body{
+    background-image: url("../../img/81-816769_gradient-background-hd.jpg");
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: "Times New Roman";
+}
+form h2{
+    color: white;
+    margin: 5px;
+    font-size: 30px;
+}
+form{
+    width: 450px;
+    margin-left: 160px;
+    background: rgba(0,0,0,0.3);
+    padding: 10px 15px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+input, textarea{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 7px;
+    box-sizing: border-box;
+    border: none;
+}
+textarea{
+    min-height: 100px;
+    max-height: 300px;
+    min-width: 419px;
+    max-width: 419px;
+}
+#boton1{
+    background: lightgray;
+    color: black;
+}
+#boton1:hover{
+    cursor: pointer;
+}
+
