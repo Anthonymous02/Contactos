@@ -1,5 +1,44 @@
-.header
-{
-    background: antiquewhite;
+
+* {
+    box-sizing: border-box;
+    background-color:#2f3640;
+    text-align: center;
+    color: azure;
 }
+.container p{
+    background-color: #487eb0;
+  padding: 100px;
+
+
+
+}
+
+.list {
+    border: aquamarine;
+    list-style: none;
+    display: flex;
+    text-align: right;
+
+}
+
+.nav ul{
+    background-color:#718093;
+    list-style: none;
+    align-content: center;
+    padding: 10px;
+
+}
+
+.parrafo {
+    color: antiquewhite;
+}
+li{
+    margin: 10px;
+    font-family: "Arial Black";
+
+}
+
+
+
+
 
