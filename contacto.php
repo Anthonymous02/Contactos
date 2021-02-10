@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="assets/css/contacto.css">
 </head>
 <body>
-<form action="index.php" method="post">
+<form action="" method="post">
     <h2> Contacto</h2>
     <input type="text" name="nombre" placeholder="Nombre">
     <input type="email" id="email" name="email" placeholder="Correo">
