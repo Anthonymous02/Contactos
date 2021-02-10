@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-
+<h1> Sam Sensei</h1>
 <h2> Javier sensei</h2>
 </body>
 </html>
