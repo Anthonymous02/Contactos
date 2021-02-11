@@ -14,33 +14,42 @@
 
 
 <div class="h1">
-<h2> Servicios-Menu</h2>
+<h1> Servicios-Menu</h1>
 </div>
 
 <div class="img">
-    <table width="100px">
+    <div class="tabla">
+        <table aling="center">
 
-        <th><img src="img/pepperoni.jpg" alt="" width="200px" height="200px"> <th>
-        <th><img src="img/47d9dc8f134663b4f4c99b6e50c24093-700.jpg" alt="" width="200px" height="200px"><th>
-        <th><img src="img/297-2975683_delicious-and-testy-pizza-fast-food-hd-hd.jpg" alt="" width="200px" height="200px"><th>
-    <tr>
-            <br>
-        <th><img src="img/840_560.jpg" alt="" width="200px" height="200px"><th>
-        <th><img src="img/60012-food-pizza-cheese.jpg" alt="" width="200px" height="200px"><th>
-        <th><img src="img/pizza-5179939_1920.jpg" alt="" width="200px" height="200px"><th>
-    <tr>
-            <br>
-        <th><img src="img/pizza-barbacoa-un-clasico-para-ninos-md.jpg" alt="" width="200px" height="200px"><th>
-        <th><img src="img/pizza-clasica-02.png" alt="" width="200px" height="200px"><th>
-        <th><img src="img/pizza-preferencias.jpg" alt="" width="200px" height="200px"><th>
-    <tr>
+            <th><img src="img/pepperoni.jpg" alt="" width="200px" height="200px"> <th>
+            <th><img src="img/47d9dc8f134663b4f4c99b6e50c24093-700.jpg" alt="" width="200px" height="200px"><th>
+            <th><img src="img/297-2975683_delicious-and-testy-pizza-fast-food-hd-hd.jpg" alt="" width="200px" height="200px"><th>
+                <tr>
+                    <br>
+                    <th><img src="img/840_560.jpg" alt="" width="200px" height="200px"><th>
+                    <th><img src="img/60012-food-pizza-cheese.jpg" alt="" width="200px" height="200px"><th>
+                    <th><img src="img/pizza-5179939_1920.jpg" alt="" width="200px" height="200px"><th>
+                <tr>
+                    <br>
+                    <th><img src="img/pizza-barbacoa-un-clasico-para-ninos-md.jpg" alt="" width="200px" height="200px"><th>
+                    <th><img src="img/pizza-clasica-02.png" alt="" width="200px" height="200px"><th>
+                    <th><img src="img/pizza-preferencias.jpg" alt="" width="200px" height="200px"><th>
+                <tr>
 
-    </table>
+        </table>
+        <br>
+
+    </div>
+  
+
 </div>
 <br>
-<div class="button">
-<button class="atras"><a href="index.php">atras</a> </button><br>
-</div>
+<button class="atras"><a href="index.php"><b>atras<b></a> </button><br>
+
+
+
+
+
 
 </body>
 </html>

@@ -1,24 +1,41 @@
 *{
- background-color: #ff6b6b;
-
+    margin: 0%;
+    padding: 0%;
 }
 
 .atras button a{
-    list-style: none;
 
+    margin-left: 50px;
 
 }
 .h1{
     color: azure;
     text-align: center;
+    background-color: #ff6b6b;
 }
 .button{
-    list-style: none;
-    color: azure;
+
 }
+a:link, a:visited, a:active {
+    text-decoration:none;}
+
 .img{
-    text-align: center;
     margin-left: 50px;
+    background-color: darkgrey;
+    text-align: right;
+    padding: 0px;
+    margin-left: 0px;
 
+}
+.tabla{
+    margin-left: 80px;
+    text-align: justify;
+}
+.img {
+    text-align: center;
+    margin: 90px;
 
+}
+.tabla{
+    margin-left: 24.5%;
 }

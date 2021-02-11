@@ -20,6 +20,6 @@
 
     <input type="submit" value="Enviar" id="boton1">
 </form>
-
+<button><a href="index.php">Atras</a> </button>
 </body>
 </html>
