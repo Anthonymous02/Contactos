@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 
 <head>
     <meta charset="UTF-8">
@@ -18,43 +18,56 @@
         <nav class="nav" align="right">
 
             <ul class="list">
-                <li class="espacio" align="right">
-                    <button> <a href="#">inicio</a></button>
+                <li >
+                    <a href="#">Inicio</a>
                 </li>
                 <li>
-                    <button>  <a href="#">servicios</a></button>
+               <a href="servicios.php">Servicios</a>
                 </li>
+
                 <li>
-                    <button>  <a href="#">sobre nosotros</a></button>
-                </li>
-                <li>
-                    <button> <a href="#">Contactos</a></button>
+                    <a href="contacto.php">Contactos</a>
                 </li>
             </ul>
         </nav>
+    <br>
 
 </header>
 
-        <!--1seccion-->
-        <section class="parrafo">
-
-            <h2 align="center">hostpizza</h2>
-            <p>
-                Biennvenidos a Hostpizza, la pizeria con el servicio mas rapido del pais,<br>
-                Hostpizza, tu pizza rapida y calientica...<br>
-            </p>
-
-            <div class="container">
-                <img src="assets/img/depositphotos_2330630-stock-photo-happy-attractive-cook-with-a.jpg">
+          <div class="titulo">
+                <h1 align="center">Hostpizza</h1>
                     <br>
+                        <p>
+                         Biennvenidos a Hostpizza, la pizeria con el servicio mas rapido del pais,<br>
+                         Hostpizza, tu pizza rapida y calientica...<br>
+                        </p>
                     <br>
 
-                      <p> <img src="assets/img/Pizza-con-niños-para-la-cuarentena.jpg"width="200px"height="200px">
-                          En Hostpizza  tratamos de crear un ambiente alegre y muy divertido nuestro personal siempre esta en<br>
-                          en continua interacion pendiente a las ordenes de cada uno de los clientes,habra un mesero por cada<br>
-                          mesa.
-                      </p>
+                     <!--1seccion-->
+                     <section class="container" >
+
+
+                <img src="assets/img/depositphotos_2330630-stock-photo-happy-attractive-cook-with-a.jpg" class="img" class="img">
+                    <br>
+                    <br>
             </div>
+
+            <div class="lol">
+                <img src="assets/img/Pizza-con-niños-para-la-cuarentena.jpg"width="200px"height="200px" class="imglol">
+                <p class="lol">
+                    En Hostpizza  tratamos de crear un ambiente alegre y muy divertido nuestro personal siempre esta en<br>
+                    en continua interacion pendiente a las ordenes de cada uno de los clientes,habra un mesero por cada<br>
+                    mesa.
+                    <br>
+                    Hostpizza fue creada en 24 de julio del 1998 por el cocinero Jose luis Antonio De La cruz hombre de <br>
+                    nacionalidad italiana con sangre dominicana, llego a RD en el 2001 y coloco su primera surcusal en la <br>
+                    ciudad de Santo Domingo donde se dio a conocer como Mr.pizza y donde conocio a su mejor amigo trujillo<br>
+                    quien tiempo despues le ayudo  a expandir sus ventas por todo el pais. Colocando dos surcusale por cada <br>
+                    ciudad.
+                </p>
+
+            </div>
+
 
 
 </body>
