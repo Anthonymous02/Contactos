@@ -15,18 +15,7 @@ $email = $_POST['email'];
 $number = $_POST['number'];
 $tel = $_POST['tel'];
 $mensaje = $_POST['mensaje'];
-<<<<<<< HEAD
-echo "$nombre <br>";
-echo "$email<br>";
-echo "$number<br>";
-echo "$tel<br>";
-echo "$mensaje<br>";
-echo "<br>";
 ?>
-
-=======
-?>
-
 
 <?php
 echo "<p>$nombre</p>";
@@ -38,4 +27,4 @@ echo "<p>$mensaje</p>";
 
 </body>
 </html>
->>>>>>> 83f26e92a9ea94ba26f4434325a8f4dfc8209f8d
+
