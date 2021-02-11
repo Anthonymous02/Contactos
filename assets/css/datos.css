@@ -1,0 +1,16 @@
+*{
+
+    background-image: url("../../img/6258e7b2172a005da1e1f47cd94d27f9.jpg");
+}
+
+p{
+    color: white;
+    background: none;
+    font-family: "Times New Roman";
+    font-size: 23px;
+    box-sizing: border-box;
+    margin: 0;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
